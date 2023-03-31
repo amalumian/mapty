@@ -1,6 +1,6 @@
 # Mapty
 
-Mapty is a website that lets you track your workouts, such as running and cycling, on a map.
+Mapty is a website that allows you to track your workouts (running or cycling) directly on a map by providing inputs.
 
 Made on [Jonas Schmedtmann's course](https://www.udemy.com/course/the-complete-javascript-course/).
 
